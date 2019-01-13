@@ -37,6 +37,14 @@ In the project GitHub page, click on the `Clone or download` dropdown button and
 
 ## Gameplay instructions
 
+The main aim of the game is to shoot down as many obstacles as possible and avoid contact.
+
 To play the game download or clone the `JetStar` folder to your PC (mentioned above) and execute the `JetStar.exe` file.
 
-When you have managed to run he `JetStart.exe` file, you will be presented with the `Main Menu` of the game. Navigate using the `UP` and `DOWN` arrow keys. To select one of the options, press the `Return` (i.e. `Enter`) key.
+When you have managed to run he `JetStart.exe` file, you will be presented with the `Main Menu` of the game. 
+
+Navigate using the `UP` and `DOWN` arrow keys. To select one of the options, press the `Return` (i.e. `Enter`) key.
+
+Press `PLAY` and it will take you to the game. Use the `UP`, `DOWN`, `RIGHT` and `LEFT` to control the Jet.
+
+To shoot down the obstacles (i.e. the Rocks) press the `Z` key.
